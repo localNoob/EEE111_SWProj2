@@ -1,0 +1,6 @@
+6839,resistor,N/A,10k ohm,1.0,3854945,3854945.0,Components,No
+5723,battery,power supply,9V,100.0,57,5700.0,Components,No
+5471,IC,timer IC,NE555,10.0,583,5830.0,Components,No
+8890,temp sensor,from -50 to 150 celsius,LM35,60.0,5,300.0,Sensors,No
+9834,multimeter,4-in-1 volt (AC and DC); amps; ohms,digital,1313.0,8,10504.0,Tools,No
+87772,speaker,N/A,8-ohm,22.0,593,13046.0,Audio,No
